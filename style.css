@@ -1,0 +1,24 @@
+
+.Rubrik{
+    background-color: yellow;
+    border: 5px black;
+    text-align: center;
+    color: blue;
+}
+body{
+    background-image: url("./img/showcase.jpg");
+}
+h2{
+    text-align: center;
+    border: 5px black
+}
+.container{
+    background-color: lightgrey;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Wal{
+    text-align: center;
+}
+
